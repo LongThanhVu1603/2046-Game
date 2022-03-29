@@ -14,6 +14,11 @@ View Here: https://longthanhvu1603.github.io/2046-Game/ <br> <br>
 
 --CSS-- <br>
 
-![image](https://user-images.githubusercontent.com/57677949/160611393-25015f52-afc2-44c7-9b30-44b27667d012.png) <br> <br>
+![image](https://user-images.githubusercontent.com/57677949/160612943-62a9b687-5524-4b78-8b3a-77d26fb99eb4.png) <br><br>
+
+--HSL-- <br> Hue + Saturation + Lightness
+
+![image](https://user-images.githubusercontent.com/57677949/160613028-dde1c8ca-4938-4751-96e3-8532385f7632.png)
+
 
 
