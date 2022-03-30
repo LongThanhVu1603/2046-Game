@@ -25,7 +25,6 @@ View Here: https://longthanhvu1603.github.io/2046-Game/ <br> <br>
 ![image](https://user-images.githubusercontent.com/57677949/160880751-1193b4a5-1866-4de4-90c7-d53d24a0b124.png) <br> <br>
 
 --ConstructorJS-- <br>
-
 ![image](https://user-images.githubusercontent.com/57677949/160882243-24cd01e3-1c3d-4771-857d-49222f7aadc2.png)<br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor?retiredLocale=vi <br> <br>
 
